@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Coffee Shop</string>
+    <string name="title">quantity</string>
+    <string name="price">price</string>
+    <string name="topping">Toppings</string>
+    <string name="topping_type_1">Whipped Cream</string>
+    <string name="topping_type_2">Extra Sugar</string>
+    <string name="topping_type_3">Cookies</string>
+    <string name="name">Your Name!</string>
+</resources>
